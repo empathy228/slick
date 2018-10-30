@@ -1005,7 +1005,7 @@
 
         var _ = this;
 
-        if (filter !== null) {
+        if (filter) {
 
             _.$slidesCache = _.$slides;
 
